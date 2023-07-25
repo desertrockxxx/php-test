@@ -1,73 +1,33 @@
-<!-- Footer -->
-<footer class="text-center text-lg-start bg-light text-muted">
-  <!-- Section: Social media -->
-  <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
-    <!-- Left -->
-    <div class="me-5 d-none d-lg-block">
-      <span>Get connected with us on social networks:</span>
-    </div>
-    <!-- Left -->
 
-    <!-- Right -->
-    <div>
-      </a>
-      <a href="https://hub.docker.com/repository/docker/desertrockx" class="me-4 text-reset">
-        <i class="fab fa-docker"></i>
-      </a>
-      <a href="https://www.linkedin.com/in/sinan-karateke-398848111" class="me-4 text-reset">
-        <i class="fab fa-linkedin"></i>
-      </a>
-      <a href="https://github.com/desertrockxxx" class="me-4 text-reset">
-        <i class="fab fa-github"></i>
-      </a>
-    </div>
-    <!-- Right -->
-  </section>
-  <!-- Section: Social media -->
-
-  <!-- Section: Links  -->
-  <section class="">
-    <div class="container text-center text-md-start mt-5">
-      <!-- Grid row -->
-      <div class="row mt-3">
-        <!-- Grid column -->
-        <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
-          <!-- Content -->
-          <h6 class="text-uppercase fw-bold mb-4">
-            <i class="fas fa-gem me-3"></i>Sinan Karateke
-          </h6>
-          <p>
-            Programmierer, Webdesigner und Systemadmin
-          </p>
+<footer class="text-center text-white" style="background-color: #45637d;">
+  <!-- Grid container -->
+  <div class="container p-4">
+    <!-- Section: Iframe -->
+    <section class="">
+      <div class="row d-flex justify-content-center">
+        <div class="col-lg-6">
+          <div class="ratio ratio-16x9">
+            <iframe
+              class="shadow-1-strong rounded"
+              src="https://www.youtube.com/watch?v=6xc9DFeo84s&ab_channel=Explorewithme"
+              title="YouTube video"
+              allowfullscreen
+            ></iframe>
+          </div>
         </div>
-        <!-- Grid column -->
-
-        <!-- Grid column -->
-        <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
-          <!-- Links -->
-          <h6 class="text-uppercase fw-bold mb-4">Contact</h6>
-          <p><i class="fas fa-home me-3"></i>Gneisenaustr. 24, 10961 Berlin</p>
-          <p>
-            <i class="fas fa-envelope me-3"></i>
-            sinankarateke@proton.me
-          </p>
-          <p><i class="fas fa-phone me-3"></i> + 49 176 2070 7793</p>
-        </div>
-        <!-- Grid column -->
       </div>
-      <!-- Grid row -->
-    </div>
-  </section>
-  <!-- Section: Links  -->
+    </section>
+    <!-- Section: Iframe -->
+  </div>
+  <!-- Grid container -->
 
   <!-- Copyright -->
-  <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
+  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
     © 2023 Copyright:
-    <a class="text-reset fw-bold" href="https://mdbootstrap.com/">Sinan Karateke</a>
+    <a class="text-white" href="https://github.com/desertrockxxx/">Desertrockxxx</a>
   </div>
   <!-- Copyright -->
 </footer>
-<!-- Footer -->
 
 </body>
 

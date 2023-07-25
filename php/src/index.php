@@ -17,7 +17,7 @@ if(isset($_POST['categorie_id'])) {
 $object = new Mindset;
 
 ?>
-<div class="row col-sm-3"></div>
+<div class="row col-sm-6"></div>
 <div class="container col-sm-6 text-center">
     <div class="row">
         <div class="col-sm-4 text-center">
